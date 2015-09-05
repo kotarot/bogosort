@@ -34,13 +34,6 @@ var array_to_str = function(array) {
     return '[' + array.join(', ') + ']';
 }
 
-var sleep = function(time) {
-    var d1 = new Date().getTime(), d2 = new Date().getTime();
-    while (d2 < d1 + time) {
-        d2 = new Date().getTime();
-     }
-}
-
 $(document).ready(function() {
     // Generate a sorted and suffled array.
     var answer = new Array(ARRAY_SIZE);
