@@ -1,6 +1,6 @@
 // bogo.js
 
-var ARRAY_SIZE = 5;
+var ARRAY_SIZE = 8;
 
 // From: http://bost.ocks.org/mike/shuffle/
 var shuffle = function(array) {
