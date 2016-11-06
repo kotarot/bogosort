@@ -2,4 +2,4 @@
 
 bogobogobogo.
 
-* [http://bogosort.net](http://bogosort.net/)
+* [http://bogosort.terabo.net](http://bogosort.terabo.net/)
